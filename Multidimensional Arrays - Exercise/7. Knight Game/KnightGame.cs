@@ -9,12 +9,8 @@
             int matrixSize = int.Parse(Console.ReadLine());
             var matrix = new char[matrixSize][];
             GetMatrix(matrix);
-            if (matrixSize <= 0)
-            {
-                Console.WriteLine(0);
-            }
-
             var removeKnights = 0;
+
             while (true)
             {
                 bool isRemoved = RemoveKnight(matrix);
