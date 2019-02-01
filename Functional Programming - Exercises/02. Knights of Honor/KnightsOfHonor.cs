@@ -1,7 +1,7 @@
-﻿using System.Linq;
-
-namespace _02._Knights_of_Honor
+﻿namespace _02._Knights_of_Honor
 {
+    using System.Linq;
+
     using System;
 
     public class KnightsOfHonor

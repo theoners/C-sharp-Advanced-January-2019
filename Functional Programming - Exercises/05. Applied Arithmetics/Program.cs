@@ -1,9 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-
-namespace _05._Applied_Arithmetics
+﻿namespace _05._Applied_Arithmetics
 {
+    using System;
+    using System.Linq;
+
     public class Program
     {
         public static void Main()
